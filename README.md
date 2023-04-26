@@ -9,3 +9,6 @@ With my School Management System, you can manage student enrollment, attendance,
 In addition, my system provides a range of academic tools, such as class scheduling, lesson planning, and curriculum management. It also provides features for communication and collaboration, such as email, messaging, and file sharing.
 
 My School Management System is built on reliable and modern technologies, including PHP, MySQL, and JavaScript. It is also designed to be highly customizable, with options to tailor the system to your school's specific needs.
+
+
+ Author : De Cent Malik
